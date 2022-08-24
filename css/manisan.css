@@ -1,0 +1,26 @@
+* {
+  background-color: #eeee;
+}
+
+section {
+  padding: 0 20px 20px 20px;
+}
+
+.container-fluid h1 {
+  text-align: center;
+  text-transform: uppercase;
+  background-color: #acacac;
+  padding: 20px;
+  margin-top: 0;
+  color: whitesmoke;
+  font-size: 40px;
+}
+
+h3 {
+  padding-left: 10px;
+  text-align: center;
+}
+
+.col img {
+  max-width: 100%;
+}

@@ -1,0 +1,75 @@
+.slider h3,
+.slider h5 {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+nav .brand-logo {
+  font-size: 1.6em;
+  font-family: "Rampart One", cursive;
+}
+
+nav li a:hover {
+  color: #1976d2;
+  text-decoration: underline;
+  transition: 0.3s;
+}
+
+section {
+  padding: 20px 0;
+}
+
+.card .card-image img {
+  display: block;
+  border-radius: 100%;
+  position: relative;
+  left: 10%;
+  right: 0;
+  top: 10px;
+  bottom: 0;
+  width: 80%;
+}
+
+.card .card-content {
+  padding: 0 24px 24px;
+}
+
+.card-panel h5 {
+  font-size: 1.5rem;
+}
+
+.galeri p {
+  color: #1976d2;
+}
+
+.galeri p:hover {
+  text-decoration: underline;
+}
+
+footer {
+  padding: 1px 0;
+}
+
+footer .flow-text {
+  color: #acacac;
+  margin-top: 0;
+}
+
+.social-media-icon {
+  padding: 10px;
+  background: #222;
+  color: #acacac;
+  border-radius: 4px;
+  font-size: 30px;
+}
+
+a.social-media-icon:hover {
+  color: white !important;
+}
+
+.ig {
+  color: #acacac;
+}
+
+.ig:hover {
+  text-decoration: underline;
+}
