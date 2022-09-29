@@ -45,6 +45,10 @@ section {
   text-decoration: underline;
 }
 
+#contact h5 {
+  margin-top: 0;
+}
+
 footer {
   padding: 1px 0;
 }
